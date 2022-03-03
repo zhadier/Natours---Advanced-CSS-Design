@@ -4,7 +4,7 @@
 
 > 'Natours' is a landing page for adventure and tour planners. It's an HTML-SASS website with pure css for all it's animations and transitions and zero JavaScript. The design was based on Jonas Schmedtmann's design for his online Advanced CSS course .
 
-![screenshot](https://user-images.githubusercontent.com/90556221/147119548-d76fed22-56f3-480e-b79c-13bbfb9f10c8.png)
+![screenshot](https://user-images.githubusercontent.com/90556221/156657676-2c73183b-a83a-407b-b9e4-61d7fc4720ea.png)
 
 
 ## Built With
